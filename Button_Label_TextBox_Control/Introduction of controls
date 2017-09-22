@@ -1,0 +1,6 @@
+Button : - used for taking acceptence from the user to perform as action.
+Label : - used for displaying static text in UI.
+Textbox :- taskes user input , used in 3 ways ,
+            a) single line. 
+            b) multi line.
+            c) Password.
