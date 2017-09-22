@@ -4,3 +4,7 @@ Textbox :- taskes user input , used in 3 ways ,
             a) single line. 
             b) multi line.
             c) Password.
+            
+  TextBox 1) by default single line .
+          2) can be multiline by using Multiline = True.
+          3) Scrollbar also not present by default , ScrollBar = Vertical, Horizontal , Both.
